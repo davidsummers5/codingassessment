@@ -1,5 +1,5 @@
 # codingassessment
- clone the repository
- run: 
+ clone the repository #
+ run: #
  npm install
  
