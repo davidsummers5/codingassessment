@@ -1,0 +1,21 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/david/CodingAssessment/ios/CodingAssessment.xcodeproj -configuration Debug -scheme CodingAssessment -destination id=9526BA4C-7BE1-45DF-8C7F-B87C82FE70B9
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+note: Using new build system
+note: Planning
+Analyze workspace
+
+Create build description
+Build description signature: 2791cc6f2fa44a7951c9d493185e8444
+Build description path: /Users/david/Library/Developer/Xcode/DerivedData/CodingAssessment-asgzzvzgeuzddsdhcsleagsixufp/Build/Intermediates.noindex/XCBuildData/2791cc6f2fa44a7951c9d493185e8444-desc.xcbuild
+
+note: Build preparation complete
+note: Building targets in dependency order
+/Users/david/CodingAssessment/ios/Pods/Target Support Files/Pods-CodingAssessment/Pods-CodingAssessment.debug.xcconfig:1:1: error: unable to open file (in target "CodingAssessment" in project "CodingAssessment")
+/Users/david/CodingAssessment/ios/Pods/Target Support Files/Pods-CodingAssessment/Pods-CodingAssessment.debug.xcconfig:1:1: error: unable to open file (in target "CodingAssessment" in project "CodingAssessment")
+/Users/david/CodingAssessment/ios/Pods/Target Support Files/Pods-CodingAssessment/Pods-CodingAssessment.debug.xcconfig:1:1: error: unable to open file (in target "CodingAssessment" in project "CodingAssessment")
+/Users/david/CodingAssessment/ios/Pods/Target Support Files/Pods-CodingAssessment/Pods-CodingAssessment.debug.xcconfig:1:1: error: unable to open file (in target "CodingAssessment" in project "CodingAssessment")
+warning: Capabilities for Signing & Capabilities may not function correctly because its entitlements use a placeholder team ID. To resolve this, select a development team in the CodingAssessment editor. (in target 'CodingAssessment' from project 'CodingAssessment')
